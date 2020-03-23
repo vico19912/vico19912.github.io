@@ -1,0 +1,21 @@
+.img1{
+  width: 90%;
+  height: auto;
+}
+
+.baner{
+  background-color: #17a2b8;
+}
+
+.fondo{
+  background-image: url("../img/fondo.jpg");
+}
+
+.foto{
+  height: 50%;
+  width: auto;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 100%;
+  background-size: 100% auto;
+}
